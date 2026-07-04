@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Models
+models/
+outputs/
+
+# Python model files
+*.pkl
+*.joblib
